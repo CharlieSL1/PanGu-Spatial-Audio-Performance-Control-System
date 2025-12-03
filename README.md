@@ -9,8 +9,8 @@
 ## Table of Contents
 
 - [Background](#background)
-- [Tutorial] (#Tutorial)
-- [Performing](#Performing Using PanGu)
+- [Tutorial](#tutorial)
+- [Performing Using PanGu](#performing-using-pangu)
 - [Install](#install)
 - [Version](#version)
 - [TODO](#todo)
@@ -24,11 +24,11 @@ As a music creator working with multichannel and spatial audio, I am interested 
 
 ## Tutorial
 
-![Tutorial_Video](media/tutorial.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/akYpio9azhE" title="PanGu Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Performing Using PanGu
 
-![Performing](media/Performing.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SbW4J_I4MYo" title="PanGu Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Install
