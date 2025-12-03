@@ -33,7 +33,10 @@ env/
 *.swp
 *.swo
 *~
+<<<<<<< Updated upstream
 .DS_Store
+=======
+>>>>>>> Stashed changes
 
 # OS
 .DS_Store
@@ -48,8 +51,22 @@ Thumbs.db
 *.log
 *.tmp
 
+<<<<<<< Updated upstream
 # MediaPipe model files (if large, consider using LFS or downloading separately)
 # gesture_recognizer.task - keeping for now as it seems needed
+=======
+# Large media files (consider using Git LFS)
+# Uncomment these if videos should not be tracked:
+# *.mp4
+# *.mov
+# *.avi
+# media/*.mp4
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+>>>>>>> Stashed changes
 
 # Node modules (if any)
 node_modules/
