@@ -1,0 +1,6 @@
+mediapipe>=0.10
+opencv-python>=4.10
+numpy<2
+python-osc>=1.9
+depthai>=2.0,<3.0
+websockets>=11.0
