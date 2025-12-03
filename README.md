@@ -24,11 +24,51 @@ As a music creator working with multichannel and spatial audio, I am interested 
 
 ## Tutorial
 
+<<<<<<< Updated upstream
 <iframe width="560" height="315" src="https://www.youtube.com/embed/akYpio9azhE" title="PanGu Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Performing Using PanGu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SbW4J_I4MYo" title="PanGu Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+=======
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+![Tutorial_Video](media/tutorial.mp4)
+
+## Performing Using PanGu
+
+![Performing](media/Performing.mp4)
+=======
+[![PanGu Tutorial](https://img.youtube.com/vi/akYpio9azhE/maxresdefault.jpg)](https://youtu.be/akYpio9azhE)
+
+**Watch on YouTube:** [https://youtu.be/akYpio9azhE](https://youtu.be/akYpio9azhE)
+
+## Performing Using PanGu
+
+[![PanGu Performance](https://img.youtube.com/vi/SbW4J_I4MYo/maxresdefault.jpg)](https://youtu.be/SbW4J_I4MYo)
+
+**Watch on YouTube:** [https://youtu.be/SbW4J_I4MYo](https://youtu.be/SbW4J_I4MYo)
+>>>>>>> Stashed changes
+=======
+[![PanGu Tutorial](https://img.youtube.com/vi/akYpio9azhE/maxresdefault.jpg)](https://youtu.be/akYpio9azhE)
+
+**Watch on YouTube:** [https://youtu.be/akYpio9azhE](https://youtu.be/akYpio9azhE)
+
+## Performing Using PanGu
+
+[![PanGu Performance](https://img.youtube.com/vi/SbW4J_I4MYo/maxresdefault.jpg)](https://youtu.be/SbW4J_I4MYo)
+
+**Watch on YouTube:** [https://youtu.be/SbW4J_I4MYo](https://youtu.be/SbW4J_I4MYo)
+>>>>>>> Stashed changes
+=======
+<iframe width="560" height="315" src="https://www.youtube.com/embed/akYpio9azhE" title="PanGu Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Performing Using PanGu
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SbW4J_I4MYo" title="PanGu Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>>>>>>> 24edcd15b1f0196fc2f73587728a502abddfeadd
+>>>>>>> Stashed changes
 
 
 ## Install
