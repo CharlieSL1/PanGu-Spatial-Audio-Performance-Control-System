@@ -3,12 +3,14 @@
 
 ![GitHub Created At](https://img.shields.io/badge/Created_At-2025-orange) [![GITHUB](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/CharlieSL1/PanGu-Spatial-Audio-Performance-Control-System) [![ME](https://img.shields.io/badge/github-ME-blue?logo=github)](https://github.com/CharlieSL1?tab=repositories) 
 
-![banner](pic/bannerpic.png)
+![banner](media/bannerpic.png)
 
 
 ## Table of Contents
 
 - [Background](#background)
+- [Tutorial] (#Tutorial)
+- [Performing](#Performing Using PanGu)
 - [Install](#install)
 - [Version](#version)
 - [TODO](#todo)
@@ -19,6 +21,14 @@
 ## Background
 
 As a music creator working with multichannel and spatial audio, I am interested in moving beyond the flat left–right logic of stereo toward a genuinely three-dimensional approach to performance. Instead of treating sound as a horizontal line in front of the audience, I aim to design a system in which performers think and act inside a volumetric sound field, where their position and gestures can directly shape trajectories, focus, and relationships between sound objects in space. This framework is not limited to electronic music: it can extend to theatre and musical theatre, where actors and singers become spatial sound sources, and their movement across the stage dynamically drives real-time spatialization and sound design, turning space itself into an active compositional parameter.
+
+## Tutorial
+
+![Tutorial_Video](media/tutorial.mp4)
+
+## Performing Using PanGu
+
+![Performing](media/Performing.mp4)
 
 
 ## Install
