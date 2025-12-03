@@ -24,6 +24,8 @@ As a music creator working with multichannel and spatial audio, I am interested 
 
 ## Tutorial
 
+<<<<<<< HEAD
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <iframe width="560" height="315" src="https://www.youtube.com/embed/akYpio9azhE" title="PanGu Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -68,6 +70,9 @@ As a music creator working with multichannel and spatial audio, I am interested 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SbW4J_I4MYo" title="PanGu Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 >>>>>>> 24edcd15b1f0196fc2f73587728a502abddfeadd
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 
